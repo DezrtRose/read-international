@@ -1,0 +1,23 @@
+/*
+Theme Name:     SKT Charity Child
+Description:    Child theme for the SKT Charity theme
+Author:         Satish Shanker Dongol
+Author URI:     https://www.satish-dongol.com.np/
+Template:       skt-charity
+Version:        1.0.0
+*/
+
+.logo {
+    width: 20%;
+}
+.header_right {
+    width: 80%;
+}
+.sitenav ul li a {
+    padding: 10px;
+}
+.heart {
+    border: none;
+    margin: 0;
+    padding: 0 0 0 20px;
+}
